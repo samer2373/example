@@ -85,7 +85,7 @@ class _QiblaARViewState extends State<QiblaARView> {
         type: NodeType.webGLB,
         //C:\Users\samer\Downloads\ar_flutter_plugin-main\ar_flutter_plugin-main\example\Models\kaaba3\mecca1blender.gltf
         uri:
-            "https://github.com/KhronosGroup/glTF-Sample-Models/blob/master/2.0/2CylinderEngine/glTF-Binary/2CylinderEngine.glb?raw=true",
+            "https://github.com/samer2373/example/blob/master/Models/BlackBox/BlackBox.glb?raw=true",
         scale: math.Vector3(0.1, 0.1, 0.1),
         position: math.Vector3(0, -0.2, -1),
         eulerAngles: math.Vector3.zero());
