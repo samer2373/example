@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544498967773",
+    "project_id": "artest-474d9",
+    "storage_bucket": "artest-474d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544498967773:android:90cfae0149d93129e1a734",
+        "android_client_info": {
+          "package_name": "io.carius.lars.ar_flutter_plugin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544498967773-86dmps711mqm7s2qsndr2kujt9kdnrqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYIsiy-fI9D1OZFMW6V7KlIUgDsui2_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544498967773-86dmps711mqm7s2qsndr2kujt9kdnrqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
